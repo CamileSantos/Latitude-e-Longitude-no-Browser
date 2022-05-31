@@ -1,1 +1,1 @@
-# Latitude-e-Longitude-no-Browser
+# GEOLOCALIZAÇÃO_NO_BROWSER
